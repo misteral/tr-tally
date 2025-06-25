@@ -10,7 +10,7 @@ The Wellness Tracker is a mobile application designed to help users monitor and 
 
 ### 2.1 Vision Statement
 
-To empower individuals in their journey toward better habits and wellness by providing an intuitive, data-driven platform that makes tracking progress engaging and insightful.
+To empower individuals managing health symptoms and chronic conditions by providing an intuitive, data-driven platform that helps identify patterns, track progress, and support informed healthcare decisions.
 
 ### 2.2 Target Audience
 
